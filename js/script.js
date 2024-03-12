@@ -3,4 +3,6 @@ function tocarTeclaPom() {
 
 }
 
-document.querySelector('.tecla_pom').onclick = tocarTeclaPom;
+document.querySelector('.tecla_pom');
+
+tocarTeclaPom();
